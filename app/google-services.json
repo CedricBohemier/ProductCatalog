@@ -1,52 +1,45 @@
 {
   "project_info": {
-    "project_number": "549167445435",
-    "firebase_url": "https://productcatalogf18.firebaseio.com",
-    "project_id": "productcatalogf18",
-    "storage_bucket": "productcatalogf18.appspot.com"
+    "project_number": "427829906727",
+    "firebase_url": "https://productcatalogv1-316c6.firebaseio.com",
+    "project_id": "productcatalogv1-316c6",
+    "storage_bucket": "productcatalogv1-316c6.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:549167445435:android:aadfeba8c26d67fc",
+        "mobilesdk_app_id": "1:427829906727:android:76eb7f2f6db402c105ed02",
         "android_client_info": {
           "package_name": "mgarzon.createbest.productcatalog"
         }
       },
       "oauth_client": [
         {
-          "client_id": "549167445435-bqkrnvemam2vlsbvo12db9e8f7o4kt2o.apps.googleusercontent.com",
+          "client_id": "427829906727-bcf62jer2q7jedkmour9v7onojgvhuvl.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "mgarzon.createbest.productcatalog",
-            "certificate_hash": "94a15cb9b346e4f7005039f06009b38c5c518158"
+            "certificate_hash": "7762595b0e2c3009312178a65c88e03cdcad1379"
           }
         },
         {
-          "client_id": "549167445435-oa6l951d32j9h3vqpa3vk2vd757in4ui.apps.googleusercontent.com",
+          "client_id": "427829906727-t6jvstaehb9djl632stgh3irioh0r808.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBdcbJw4tB9eb0o9w1IcuCP6Pap_nphWPc"
+          "current_key": "AIzaSyCFTiFgePG8yLC2uh2Nx8_Ja5uhoSLwQoI"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "549167445435-oa6l951d32j9h3vqpa3vk2vd757in4ui.apps.googleusercontent.com",
+              "client_id": "427829906727-t6jvstaehb9djl632stgh3irioh0r808.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }
